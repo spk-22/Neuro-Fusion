@@ -37,7 +37,6 @@ python ad_gnn.py
 ```
 
 
----
 
  📊 Datasets
 
