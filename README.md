@@ -65,8 +65,6 @@ We used publicly available datasets such as:
 | --------------- | -------- | -------- | -------------|-----------|---------|
 | Multi-Modal GNN |  87.50%  | 0.8783   |     0.90     |    0.85   |   0.92  |
 
-> Results may vary depending on data splits and preprocessing.
-
 ---
 
 ##  Acknowledgements
