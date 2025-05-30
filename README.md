@@ -34,7 +34,7 @@ Alzheimer’s Disease (AD) is a complex neurodegenerative disorder. This project
 ### Installation
 
 ```bash
-git clone https://github.com/spk-22/neuro-fusion.git
+git clone https://github.com/spk-22/Neuro-Fusion.git
 python ad_gnn.py
 ```
 ````
