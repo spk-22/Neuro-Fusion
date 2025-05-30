@@ -21,7 +21,7 @@ Alzheimer’s Disease (AD) is a complex neurodegenerative disorder. This project
 
  🚀 Getting Started
 
-### Prerequisites
+# Prerequisites
 
 - Python 3.8+
 - PyTorch
@@ -35,7 +35,7 @@ Alzheimer’s Disease (AD) is a complex neurodegenerative disorder. This project
 git clone https://github.com/spk-22/Neuro-Fusion.git
 python ad_gnn.py
 ```
-````
+
 
 ---
 
@@ -45,7 +45,7 @@ We used publicly available datasets such as:
 
 * **ADNI (Alzheimer’s Disease Neuroimaging Initiative)** for neuroimaging
 * **GEO** or **TCGA** for genomic/proteomic data
-
+---
 
  🧠 Model Architecture
 
