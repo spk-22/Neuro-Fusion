@@ -59,7 +59,7 @@ We used publicly available datasets such as:
 
 | Metric          | Accuracy | F1-Score | Control AUC  |  Early AD | Late AD |
 | --------------- | -------- | -------- | -------------|-----------|---------|
-| Multi-Modal GNN |  87.50%  | 0.8783   |     0.90     |    0.85   |   0.92  |
+| Multi-Modal GNN |  98.00%  |  0.9800  |     0.98     |    0.98   |   1.00  |
 
 ---
 
